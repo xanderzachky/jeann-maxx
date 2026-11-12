@@ -1,0 +1,1 @@
+Terima kasih telah berkontribusi! Pastikan semua PR melewati pengecekan lint dan unit testing.
